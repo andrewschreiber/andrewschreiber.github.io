@@ -12,18 +12,16 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Andrew Schreiber
 
 description: Mind over scatter
 author:
   name: Andrew Schreiber
-  email: andrew.schreiber1@gmail.com
   github: andrewschreiber
   twitter: thelastalias
-  linkedin: andrewschreiber1 
-  bio: I like people who make things
-  email_md5: 726351295ec82e145928582f595aa3aa
-
+  linkedin: andrew-schreiber/37/469/9bb
+      
+  bio: mind over scatter
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
