@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Andrew Schreiber
+      title: Mind Over Scatter
 
 description: Mind over scatter
 author:
@@ -21,7 +21,7 @@ author:
   twitter: thelastalias
   linkedin: andrew-schreiber/37/469/9bb
   email_md5: 9c9c5f05a13df9b28b5835945654dbd7
-  bio: mind over scatter
+  bio: Andrew Schreiber
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
