@@ -6,7 +6,20 @@ tags:
 fullview: true
 ---
 
-On occassion, you may ask yourself, "What should I do?" This breaks down into subquestions. First, what do you want to achieve? Then, why do you want to achieve that? Evolution equips us with emotions - reactional and anticipitory - to handle this question on the micro scale. 
+Hello! I am writing this in 2015, on the planet Earth. I am a human being, and many years ago found myself utterly distraught at the seeming pointlessness of my existence. What happened next, well, culmunated in this humble blog post in which I will attempt to describe the philosophy that converted my angst to inspiration.
+
+There are two essential questions:
+1) What is the purpose of life?
+2) What do I do about it?
+
+And two essential answers:
+1) To fight heat death
+2) 
 
 
-  Fight heat death.
+
+Outline:
+Intro
+Hypothesis:
+ Fight heat death.
+M
