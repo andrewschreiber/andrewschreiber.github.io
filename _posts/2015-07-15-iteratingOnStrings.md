@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Iterating on NSAttributedStrings
+---
 If you don't need the attributes of the characters, use:
 
 ```
