@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Iterating on NSAttributedStrings
+categories: 
+tags:
+description: Code findings from working on TextFlipKit
 ---
+
 If you don't need the attributes of the characters, use:
 
 ```
