@@ -14,12 +14,25 @@ NSString *plainString = attributedString.string;
 Then do normal string iteration. However, if you **do** need the attributes of the characters (as I did in [TextFlipKit]), use the following :
 
 ```
-[attributedString enumerateAttributesInRange: NSMakeRange(0, attributedString.length) options: NSAttributedStringEnumerationLongestEffectiveRangeNotRequired usingBlock: ^(NSDictionary *attrs, NSRange range, BOOL *stopAttributed)
+[attributedString enumerateAttributesInRange: NSMakeRange(0, attributedString.length) 
+
+options: NSAttributedStringEnumerationLongestEffectiveRangeNotRequired 
+
+usingBlock: ^(NSDictionary *attrs, NSRange range, BOOL *stopAttributed)
+
      {
-         [attributedString.string enumerateSubstringsInRange: range options: NSStringEnumerationByComposedCharacterSequences usingBlock: ^(NSString *nextCharacter, NSRange substringRange, NSRange enclosingRange, BOOL *stopString)
+         [attributedString.string enumerateSubstringsInRange: range 
+
+options: NSStringEnumerationByComposedCharacterSequences 
+
+usingBlock: ^(NSString *nextCharacter, NSRange substringRange, NSRange enclosingRange, BOOL *stopString)
+
          {
+
            //Do stuff with nextCharacter
+
          }];
+
     }];
 ```
 
