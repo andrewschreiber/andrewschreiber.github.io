@@ -2,14 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
   xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <item>
-    <title>Version 1.9.4</title>
+    <title>Version 1.9.5</title>
     <sparkle:releaseNotesLink>
       https://andrewschreiber.github.io/release.html
     </sparkle:releaseNotesLink>
     <pubDate>Mon, 18 July 2016 00:00:01 -0800</pubDate>
     <enclosure url="https://andrewschreiber.github.io/releases/1.9.4/squadapp.tar.bz2"
-      sparkle:version="2"
-      sparkle:dsaSignature="MCwCFBtVvKd+MF7g31EqlHq2fu4ndefWAhRGw17WJ6SJTmMTiWOmOS/5HqTW3Q=="
+      sparkle:version="195"
+      sparkle:dsaSignature="MC0CFQCUGsoASO9RMFkE5YO+3F9WHWMM/QIUOO30yAAgChDPKwy1YmhMWSdKF/w="
       length="0"
       type="application/octet-stream" />
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
