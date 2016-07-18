@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
   xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <item>
-    <title>Version 1.9.5</title>
-    <sparkle:releaseNotesLink>
-      https://andrewschreiber.github.io/release.html
-    </sparkle:releaseNotesLink>
-    <pubDate>Mon, 18 July 2016 00:00:01 -0800</pubDate>
-    <enclosure url="https://andrewschreiber.github.io/releases/1.9.5/squad195.tar.bz2"
-      sparkle:version="195"
-      sparkle:dsaSignature="MC0CFQCUGsoASO9RMFkE5YO+3F9WHWMM/QIUOO30yAAgChDPKwy1YmhMWSdKF/w="
-      length="0"
-      type="application/octet-stream" />
-    <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-  </item>
+  <channel>
+    <title>Squad Changelog</title>
+    <link>https://andrewschreiber.github.io/squadappcast.xml</link>
+    <description>Most recent changes with updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.9.5 (July 18th, 2016)</title>
+      <sparkle:releaseNotesLink>
+        https://andrewschreiber.github.io/release.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Mon, 18 July 2016 00:00:01 -0800</pubDate>
+      <enclosure url="https://andrewschreiber.github.io/releases/1.9.5/squad195.tar.bz2"
+        sparkle:version="195"
+        sparkle:dsaSignature="MC0CFQCUGsoASO9RMFkE5YO+3F9WHWMM/QIUOO30yAAgChDPKwy1YmhMWSdKF/w="
+        length="0"
+        type="application/octet-stream" />
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
 </rss>
