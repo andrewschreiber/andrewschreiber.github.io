@@ -8,7 +8,7 @@
     </sparkle:releaseNotesLink>
     <pubDate>Sun, 18 July 2016 00:00:01 -0800</pubDate>
     <enclosure url="https://andrewschreiber.github.io/releases/1.9.4/squadapp.tar.bz2"
-      sparkle:version="1.9.4"
+      sparkle:version="194"
       sparkle:dsaSignature="MCwCFBtVvKd+MF7g31EqlHq2fu4ndefWAhRGw17WJ6SJTmMTiWOmOS/5HqTW3Q=="
       length="1623481"
       type="application/octet-stream" />
