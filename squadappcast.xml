@@ -14,7 +14,7 @@
       <pubDate>Wed, 3 August 2016 00:00:01 -0800</pubDate>
       <enclosure url="https://andrewschreiber.github.io/releases/2.0.2/squad202.tar.bz2"
         sparkle:version="202"
-        sparkle:dsaSignature="MCwCFDJa6kr26JEoQsMfuCAjVQRBxioUAhQOX9DkR+wRMZGALc3dxwlQa8BBCQ=="
+        sparkle:dsaSignature="MC0CFHh0bTRprs7wKCSs0EHGiwPgx1NxAhUAh/IYSkNAWED2o3thTXrXu6iXVeE="
         length="0"
         type="application/octet-stream" />
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
