@@ -7,14 +7,14 @@
     <description>Most recent changes with updates.</description>
     <language>en</language>
     <item>
-      <title>Version 2.0.2 (August 3, 2016)</title>
+      <title>Version 2.0.3 (August 3, 2016)</title>
       <sparkle:releaseNotesLink>
         https://andrewschreiber.github.io/release.html
       </sparkle:releaseNotesLink>
       <pubDate>Wed, 3 August 2016 00:00:01 -0800</pubDate>
-      <enclosure url="https://andrewschreiber.github.io/releases/2.0.2/squad202.tar.bz2"
-        sparkle:version="202"
-        sparkle:dsaSignature="MC0CFHh0bTRprs7wKCSs0EHGiwPgx1NxAhUAh/IYSkNAWED2o3thTXrXu6iXVeE="
+      <enclosure url="https://andrewschreiber.github.io/releases/2.0.3/squad203.tar.bz2"
+        sparkle:version="203"
+        sparkle:dsaSignature="MC0CFQCL/md3W+jYpHwPd21NHalrDR0RtgIUJfYGLQDAfjc3K0ctS7qPHTROb9c="
         length="0"
         type="application/octet-stream" />
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
