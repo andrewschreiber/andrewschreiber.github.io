@@ -14,7 +14,7 @@
       <pubDate>Wed, 3 August 2016 00:00:01 -0800</pubDate>
       <enclosure url="https://andrewschreiber.github.io/releases/2.0.1/squad201.tar.bz2"
         sparkle:version="201"
-        sparkle:dsaSignature="MC0CFQCFBCd+YV5fc/Wfz0tQNDH0AtaOgAIUa60dUS7SdYvIr7cvNqIXMubOfPs="
+        sparkle:dsaSignature="MCwCFEz9xvlZ3fcUEdAaEoTVVTPVnvHOAhRn+IVME4+fVgsk76KVP9fKZqGJ+g=="
         length="0"
         type="application/octet-stream" />
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
