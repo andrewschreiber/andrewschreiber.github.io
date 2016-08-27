@@ -27,6 +27,7 @@
       <pubDate>Thurs, 4 August 2016 00:00:07 -0800</pubDate>
       <enclosure url="https://andrewschreiber.github.io/releases/2.0.9/squad209.tar.bz2"
         sparkle:version="209"
+        sparkle:dsaSignature="MCwCFF7xA360+ZaX4qkKKXM6/55J4lPqAhRGyM5eOWj6uFulc/bMcU6RHav/TQ=="
         length="0"
         type="application/octet-stream" />
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
@@ -39,6 +40,7 @@
       <pubDate>Mon, 18 July 2016 00:00:01 -0800</pubDate>
       <enclosure url="https://andrewschreiber.github.io/releases/1.9.5/squad195.tar.bz2"
         sparkle:version="195"
+        sparkle:dsaSignature="MC0CFQCUGsoASO9RMFkE5YO+3F9WHWMM/QIUOO30yAAgChDPKwy1YmhMWSdKF/w="
         length="0"
         type="application/octet-stream" />
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
