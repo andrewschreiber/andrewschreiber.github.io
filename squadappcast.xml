@@ -6,6 +6,19 @@
     <link>https://andrewschreiber.github.io/squadappcast.xml</link>
     <description>Most recent changes with updates.</description>
     <language>en</language>
+
+    <item>
+      <title>Version 2.0.9 (August 3, 2016)</title>
+      <sparkle:releaseNotesLink>
+        https://andrewschreiber.github.io/release.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Thurs, 4 August 2016 00:00:07 -0800</pubDate>
+      <enclosure url="https://andrewschreiber.github.io/releases/2.3.3/squad_233s.pkg"
+        sparkle:version="233"
+        length="0"
+        type="application/octet-stream" />
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    </item>
     <item>
       <title>Version 2.0.9 (August 3, 2016)</title>
       <sparkle:releaseNotesLink>
