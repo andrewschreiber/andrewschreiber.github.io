@@ -7,6 +7,18 @@
     <description>Most recent changes with updates.</description>
     <language>en</language>
     <item>
+      <title>Version 2.4.1 (September 1, 2016)</title>
+      <sparkle:releaseNotesLink>
+        https://andrewschreiber.github.io/release.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Thurs, September1 2016 00:00:07 -0800</pubDate>
+      <enclosure url="https://andrewschreiber.github.io/releases/2.4.1/squad_241.zip"
+        sparkle:version="241"
+        length="0"
+        type="application/octet-stream" />
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    </item>
+    <item>
       <title>Version 2.3.3 (August 26, 2016)</title>
       <sparkle:releaseNotesLink>
         https://andrewschreiber.github.io/release.html
