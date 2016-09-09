@@ -7,6 +7,18 @@
     <description>Most recent changes with updates.</description>
     <language>en</language>
     <item>
+      <title>Version 2.4.4 (September 8, 2016)</title>
+      <sparkle:releaseNotesLink>
+        https://andrewschreiber.github.io/release.html
+      </sparkle:releaseNotesLink>
+      <pubDate>Thursday, September 2016 00:00:07 -0800</pubDate>
+      <enclosure url="https://andrewschreiber.github.io/releases/2.4.4/Squad_244.zip"
+        sparkle:version="244"
+        length="0"
+        type="application/octet-stream" />
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    </item>
+    <item>
       <title>Version 2.4.1 (September 1, 2016)</title>
       <sparkle:releaseNotesLink>
         https://andrewschreiber.github.io/release.html
@@ -14,30 +26,6 @@
       <pubDate>Wednesday, August 31st 2016 00:00:07 -0800</pubDate>
       <enclosure url="https://andrewschreiber.github.io/releases/2.4.1/Squad_241.zip"
         sparkle:version="241"
-        length="0"
-        type="application/octet-stream" />
-      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-    </item>
-    <item>
-      <title>Version 2.3.3 (August 26, 2016)</title>
-      <sparkle:releaseNotesLink>
-        https://andrewschreiber.github.io/release.html
-      </sparkle:releaseNotesLink>
-      <pubDate>Fri, 26 August 2016 00:00:07 -0800</pubDate>
-      <enclosure url="https://andrewschreiber.github.io/releases/2.3.3/squad_233.zip"
-        sparkle:version="233"
-        length="0"
-        type="application/octet-stream" />
-      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-    </item>
-    <item>
-      <title>Version 2.3.2 (August 26, 2016)</title>
-      <sparkle:releaseNotesLink>
-        https://andrewschreiber.github.io/release.html
-      </sparkle:releaseNotesLink>
-      <pubDate>Fri, 26 August 2016 00:00:07 -0800</pubDate>
-      <enclosure url="https://andrewschreiber.github.io/releases/2.3.2/squad_232.zip"
-        sparkle:version="232"
         length="0"
         type="application/octet-stream" />
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
